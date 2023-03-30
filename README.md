@@ -10,3 +10,5 @@ here are pictures of what it looks like in game:
 <br>
 
 ![Screenshot 2023-03-29 165753](https://user-images.githubusercontent.com/108925239/228695357-010025eb-d341-4195-b788-8814e3e9ff50.png)
+<br>
+this is not changing game memory, only reading it, uses external window so shouldnt get banned if you are smart about it and hide it.
